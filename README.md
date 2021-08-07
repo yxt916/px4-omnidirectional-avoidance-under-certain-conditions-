@@ -71,4 +71,4 @@ The whole rqtgraph:
 ![rosgraph2](https://user-images.githubusercontent.com/68857748/128590767-d5ad1ddc-9984-4fa8-95e1-188ff2cb8ec1.png)
 
 
-It's originally designed by "yxt916", protected by copyright.
+NOTICE:It's originally designed by "yxt916". Protected by copyright.
