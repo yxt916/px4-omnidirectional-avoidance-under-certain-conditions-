@@ -53,4 +53,4 @@ The whole rqtgraph:
 The drone will remember the uniform linear motion of person, when person comes from behind, the drone can still avoidance.
 
 
-It's design is original by "yxt916", protected by copyrigh.
+It's original designed by "yxt916", protected by copyright.
