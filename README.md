@@ -42,6 +42,8 @@ roslaunch transform transform.launch
 
 These 3 command will start the whole avoidance node. With 10 fps.(i7 10th,RTX2060)
 
+To fly, i recommand you MISSION mode by using QGC（懂的都懂）
+
 The whole rqtgraph:
 
 
