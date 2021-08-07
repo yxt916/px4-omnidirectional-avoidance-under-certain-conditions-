@@ -59,6 +59,8 @@ You can find and download linux version of QGC release package:  1.The whole ROS
 
 
 
+NOTE:The drone will remember the uniform linear motion of person, when person comes from behind, the drone can still avoid obstancle.
+
 
 
 
@@ -66,9 +68,6 @@ The whole rqtgraph:
 
 
 ![rosgraph2](https://user-images.githubusercontent.com/68857748/128590767-d5ad1ddc-9984-4fa8-95e1-188ff2cb8ec1.png)
-
-
-NOTE:The drone will remember the uniform linear motion of person, when person comes from behind, the drone can still avoid obstancle.
 
 
 It's original designed by "yxt916", protected by copyright.
