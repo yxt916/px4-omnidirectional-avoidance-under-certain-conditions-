@@ -37,11 +37,11 @@ RUN:
 
 
 
-# roslaunch local_planner local_planner_stereo.launch
+roslaunch local_planner local_planner_stereo.launch
 
-# roslaunch person_tracking person_tracker.launch
+roslaunch person_tracking person_tracker.launch
 
-# roslaunch transform transform.launch
+roslaunch transform transform.launch
 
 
 These 3 command will start the whole avoidance node. With 10 fps.(i7 10th,RTX2060)
