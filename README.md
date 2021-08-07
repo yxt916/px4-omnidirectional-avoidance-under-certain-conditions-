@@ -1,4 +1,4 @@
-# px4-omnidirectional-avoidance-under-certain-conditions-
+# PX4 omnidirectional avoidance
 
 A ROS simulation using stereo, px4 avoidance, deepsort, YOLOv3 and LS. Condition:only "person" are trained and only for uniform linear motion.
 
@@ -43,6 +43,17 @@ roslaunch transform transform.launch
 These 3 command will start the whole avoidance node. With 10 fps.(i7 10th,RTX2060)
 
 To fly, i recommand you MISSION mode by using QGC（懂的都懂）
+
+
+
+![2021-01-19 11-30-09 的屏幕截图](https://user-images.githubusercontent.com/68857748/128594676-048c3bd6-3a82-4bbe-8e8a-e66d8920c02c.png)
+![2021-08-05 13-24-05 的屏幕截图](https://user-images.githubusercontent.com/68857748/128594679-ba38924c-3e5a-4be3-b4fd-8e8c52591f43.png)
+
+
+
+
+
+
 
 The whole rqtgraph:
 
