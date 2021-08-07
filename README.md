@@ -39,7 +39,7 @@ roslaunch person_tracking person_tracker.launch
 roslaunch transform transform.launch
 
 
-These command will start the whole avoidance node. With 10 fps.(i710th,RTX2060)
+These command will start the whole avoidance node. With 10 fps.(i7 10th,RTX2060)
 
 The whole rqtgraph:
 
