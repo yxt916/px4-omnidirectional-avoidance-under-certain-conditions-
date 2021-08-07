@@ -1,0 +1,6 @@
+<launch>
+  <node name="sync" pkg="point" type="sync.py" output="screen" /> 
+  <node name="transform" pkg="transform" type="transform" output="screen" /> 
+  <node name="prediction" pkg="point" type="predict.py" output="screen" /> 
+ <node name="superposition" pkg="my_pcl_tutorial" type="superposition" output="screen" /> 
+</launch>
