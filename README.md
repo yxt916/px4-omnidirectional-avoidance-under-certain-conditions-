@@ -29,7 +29,8 @@ Set up environment is very nasty, it will take time.
 
 
 # 3.TO START:
-You can simply download the stable release zip package v1.0, make sure all environment&path&virable all is well, make sure your ROS workspace name is "catkin_ws"and, 
+You can simply download the stable release zip package v1.0, make sure environment &path &virable all is well.
+
 RUN:
 
 
