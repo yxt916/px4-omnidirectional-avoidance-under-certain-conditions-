@@ -24,7 +24,7 @@ Principle introduction：
 
 
 
-TO START, you can simply download the release zip package v1.0stable, make sure all environment is well and, 
+TO START, you can simply download the release zip package v1.0stable, make sure all environment&path&virable all is well, make sure your ROS workspace name is "catkin_ws"and, 
 RUN:
 
 
