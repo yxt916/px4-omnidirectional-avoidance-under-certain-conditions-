@@ -6,8 +6,6 @@ https://github.com/khayliang/person_tracking_ros
 
 Principle introduction：
 ![image](https://user-images.githubusercontent.com/68857748/128591008-d3dd80b7-47fa-419b-9026-7fdec664d27a.png)
-![image](https://user-images.githubusercontent.com/68857748/128591032-861f6d31-90b3-457b-b4a4-0427e9c32d37.png)
-
 TO START
 RUN:
 roslaunch local_planner local_planner_stereo.launch
