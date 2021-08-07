@@ -27,8 +27,11 @@ RUN:
 
 
 roslaunch local_planner local_planner_stereo.launch
+
 roslaunch person_tracking person_tracker.launch
+
 roslaunch transform transform.launch
+
 
 Then you can start the whole node:
 rqtgraph:
