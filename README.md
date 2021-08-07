@@ -1,6 +1,7 @@
 # PX4 omnidirectional avoidance
 
 A ROS simulation using stereo, px4 avoidance, deepsort, YOLOv3 and LS. 
+
 Condition:only "person" are trained and only for uniform linear motion.
 
 # 1.Environment setup please follow:
