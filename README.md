@@ -54,6 +54,8 @@ roslaunch transform transform.launch
 These 3 command will start the whole avoidance node. With 10 fps.(i7 10th,RTX2060)
 
 
+(4)FLY:
+
 To fly in Gazebo, i recommand MISSION mode by using QGC, it's automantic and easy to use, i'm sure u can figure it out.
 
 You can find the linux version of QGC in release package.
