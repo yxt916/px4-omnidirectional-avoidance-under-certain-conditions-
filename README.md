@@ -29,9 +29,10 @@ Set up environment is very nasty, it will take time.
 
 
 # 3.TO START:
-You can simply download the stable "release zip package v1.0", make sure environment &path &virable all is well.
+(1)DOWNLOAD: the stable release zip package v1.0https://github.com/yxt916/px4-omnidirectional-avoidance-under-certain-conditions-/releases/tag/v1.0, make sure environment &path &virable all is well.
 
-RUN:
+
+(2)RUN:
 
 
 
