@@ -2,7 +2,7 @@
 
 A ROS simulation using stereo, px4 avoidance, deepsort, YOLOv3 and LS. 
 
-Condition:only "person" are trained and only for uniform linear motion.
+Condition: only "person" was trained and only for uniform linear motion can be predicted.
 
 # 1.Environment setup please follow:
 
@@ -29,7 +29,7 @@ Set up environment is very nasty, it will take time.
 
 
 # 3.TO START:
-You can simply download the stable release zip package v1.0, make sure environment &path &virable all is well.
+You can simply download the stable "release zip package v1.0", make sure environment &path &virable all is well.
 
 RUN:
 
