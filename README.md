@@ -29,7 +29,7 @@ Set up environment is very nasty, it will take time.
 
 
 # 3.TO START:
-(1)DOWNLOAD: my release package v1.0, which includes:  1. The whole ROS workspace zip.  2. The whole PX4 firmware v1.11.0 zip.  3. QGC.
+(1)DOWNLOAD: My release package v1.0, which includes:  1. The whole ROS workspace zip.  2. The whole PX4 firmware v1.11.0 zip.  3. QGC.
 
 https://github.com/yxt916/px4-omnidirectional-avoidance-under-certain-conditions-/releases/tag/v1.0
 
@@ -54,7 +54,7 @@ roslaunch transform transform.launch
 These 3 command will start the whole avoidance node. With 10 fps.(i7 10th,RTX2060)
 
 
-To fly in Gazebo, i recommand MISSION mode by using QGC, it's automantic and easy to use.
+To fly in Gazebo, i recommand MISSION mode by using QGC, it's automantic and easy to use, i'm sure u can figure it out.
 
 You can find the linux version of QGC in release package.
 
@@ -66,7 +66,7 @@ You can find the linux version of QGC in release package.
 
 
 
-NOTE:The drone will remember the uniform linear motion of person, when person comes from behind, the drone can still avoid obstancle.
+NOTICE:The drone will remember the uniform linear motion of person, when person comes from behind, the drone can still avoid obstancle.
 
 
 
