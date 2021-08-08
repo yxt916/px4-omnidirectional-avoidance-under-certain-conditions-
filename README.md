@@ -29,7 +29,7 @@ Set up environment is very nasty, it will take time.
 
 
 # 3.TO START:
-(1)DOWNLOAD: my release package v1.0, which includes:  1.The whole ROS workspace zip.  2.The whole px4 firmware v1.11.0 zip.  3.QGC.
+(1)DOWNLOAD: my release package v1.0, which includes:  1.The whole ROS workspace zip.  2.The whole PX4 firmware v1.11.0 zip.  3.QGC.
 
 https://github.com/yxt916/px4-omnidirectional-avoidance-under-certain-conditions-/releases/tag/v1.0
 
