@@ -29,10 +29,15 @@ Set up environment is very nasty, it will take time.
 
 
 # 3.TO START:
-(1)DOWNLOAD: the stable release zip package v1.0https://github.com/yxt916/px4-omnidirectional-avoidance-under-certain-conditions-/releases/tag/v1.0, make sure environment &path &virable all is well.
+(1)DOWNLOAD: the stable release zip package v1.0, which includes:  1.The whole ROS workspace zip.  2.The whole px4 firmware v1.11.0 stable zip.  3.QGC.
+
+https://github.com/yxt916/px4-omnidirectional-avoidance-under-certain-conditions-/releases/tag/v1.0
 
 
-(2)RUN:
+(2)MAKE SURE: All environment setup & path & environment variable all is well.
+
+
+(3)RUN:
 
 
 
@@ -51,7 +56,7 @@ These 3 command will start the whole avoidance node. With 10 fps.(i7 10th,RTX206
 
 To fly in Gazebo, i recommand MISSION mode by using QGC, it's automantic and easy to use.
 
-You can find and download linux version of QGC release package:  1.The whole ROS workspace zip.  2.The whole px4 firmware v1.11.0 zip.  3.QGC.
+You can find the linux version of QGC in release package.
 
 
 
